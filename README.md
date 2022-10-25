@@ -1,6 +1,10 @@
 ## About Me
-A recent MSc graduate from the University of Aberdeen, I am a passionate aspiring data analyst with industry experience in the downstream petroleum industry. I became fascinated by data analysis through my love of football, by winning arguments with facts. I have since then acquired gained skills in coding and analysing with my favourite programming language, R.
+Graduate of the University of Aberdeen with an MSc in Petroleum Data Management, a passionate aspiring data analyst with experience in the downstream petroleum industry. As someone with an inquisitive mind and a desire to understand the reasoning behind outcomes and decisions, I became fascinated by data analysis. The following years have taught me how to code and analyze with my favourite programming language, R.
 
-When I can leverage data to uncover insights and identify patterns that have a real impact on people and businesses, I get very excited. My technical skills consist of R, Python, SQL, Excel and Power BI
+As a data analyst, I am passionate about uncovering insights and identifying patterns that can make a real difference to people and businesses.
 
-I am always happy to connect with new people in the data field and collaborate on projects revolving around football and energy data. I am always happy to connect with new people in the data field. You can find me on LinkedIn and at megaerivona@gmail.com.
+R, Python, SQL, Excel, and Power BI are a few of my technical skills
+
+In addition to collaborating on projects, professionals in the data field are always welcome to connect with me. 
+
+Email me at megaerivona@gmail.com or find me on LinkedIn.
