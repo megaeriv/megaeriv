@@ -3,4 +3,4 @@ Graduate of the University of Aberdeen with an MSc in Petroleum Data Management,
 
 R, Python, SQL, Excel, and Power BI are a few of my technical skills
 
-In addition to collaborating on projects, professionals in the data field are always welcome to connect with me. Email me at megaerivona@gmail.com
+In addition to collaborating on projects, professionals in the data field are always welcome to connect with me. Email: megaerivona@gmail.com
